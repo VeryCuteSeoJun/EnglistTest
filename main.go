@@ -1,6 +1,5 @@
 package main
 
-// 프로그램 바로 종료 ㄴ
 import (
 	"bufio"
 	"fmt"
