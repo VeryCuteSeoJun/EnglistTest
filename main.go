@@ -176,7 +176,7 @@ func main() {
 	skips := 0
 
 	// 시험 시작
-
+	clearconsole()
 	for num, i := range answers {
 		fmt.Printf("Question [%d/%d]\n", num+1, len(answers))
 		fmt.Println("Write answer (press ENTER when done): ")
